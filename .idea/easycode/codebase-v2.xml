@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/Board.java;C:/Users/user/IdeaProjects/Chess/src/main/Input.java;C:/Users/user/IdeaProjects/Chess/src/main/Main.java;C:/Users/user/IdeaProjects/Chess/src/main/Move.java;C:/Users/user/IdeaProjects/Chess/src/pieces/Bishop.java;C:/Users/user/IdeaProjects/Chess/src/pieces/King.java;C:/Users/user/IdeaProjects/Chess/src/pieces/Knight.java;C:/Users/user/IdeaProjects/Chess/src/pieces/Pawn.java;C:/Users/user/IdeaProjects/Chess/src/pieces/Piece.java;C:/Users/user/IdeaProjects/Chess/src/pieces/Queen.java;C:/Users/user/IdeaProjects/Chess/src/pieces/Rook.java" />
+  </component>
+</project>
